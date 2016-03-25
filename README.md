@@ -1,3 +1,3 @@
 # hello-world
-irst time use github - - be happy
-f
+first time use github - - be happy
+
